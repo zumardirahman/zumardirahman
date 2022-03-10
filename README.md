@@ -35,6 +35,6 @@ I'm Zumardi Rahman from Indonesia, and I do Web Development. I really enjoy lear
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zumardirahman&show_icons=true&locale=en&layout=compact" alt="zumardirahman" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zumardirahman&show_icons=true&locale=en" alt="zumardirahman" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zumardirahman&show_icons=true&locale=en" alt="zumardirahman" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zumardirahman&" alt="zumardirahman" /></p>
