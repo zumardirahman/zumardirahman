@@ -3,10 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zumardirahman&label=Profile%20views&color=0e75b6&style=flat" alt="zumardirahman" /> </p>
      
- _____                     _ _    _____     _                 
-|__   |_ _ _____ ___ ___ _| |_|  | __  |___| |_ _____ ___ ___ 
-|   __| | |     | .'|  _| . | |  |    -| .'|   |     | .'|   |
-|_____|___|_|_|_|__,|_| |___|_|  |__|__|__,|_|_|_|_|_|__,|_|_|    
+                 ____                      _ _   ___      _                    
+                |_  /  _ _ __  __ _ _ _ __| (_) | _ \__ _| |_  _ __  __ _ _ _  
+                 / / || | '  \/ _` | '_/ _` | | |   / _` | ' \| '  \/ _` | ' \ 
+                /___\_,_|_|_|_\__,_|_| \__,_|_| |_|_\__,_|_||_|_|_|_\__,_|_||_|
+
                                                                                   
                                                                                   
 <!-- ![I am Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQHCd_gi_PTD9w/profile-displaybackgroundimage-shrink_350_1400/0/1646478229127?e=1652313600&v=beta&t=QPxIvHuZUOhys1csEurRfex0XmXO9z56izs6XATQlUs) -->
