@@ -3,7 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zumardirahman&label=Profile%20views&color=0e75b6&style=flat" alt="zumardirahman" /> </p>
 
-![I am Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQHCd_gi_PTD9w/profile-displaybackgroundimage-shrink_350_1400/0/1646478229127?e=1652313600&v=beta&t=QPxIvHuZUOhys1csEurRfex0XmXO9z56izs6XATQlUs)
+▒███████▒ █    ██  ███▄ ▄███▓ ▄▄▄       ██▀███  ▓█████▄  ██▓          ██▀███   ▄▄▄       ██░ ██  ███▄ ▄███▓ ▄▄▄       ███▄    █ 
+▒ ▒ ▒ ▄▀░ ██  ▓██▒▓██▒▀█▀ ██▒▒████▄    ▓██ ▒ ██▒▒██▀ ██▌▓██▒         ▓██ ▒ ██▒▒████▄    ▓██░ ██▒▓██▒▀█▀ ██▒▒████▄     ██ ▀█   █ 
+░ ▒ ▄▀▒░ ▓██  ▒██░▓██    ▓██░▒██  ▀█▄  ▓██ ░▄█ ▒░██   █▌▒██▒         ▓██ ░▄█ ▒▒██  ▀█▄  ▒██▀▀██░▓██    ▓██░▒██  ▀█▄  ▓██  ▀█ ██▒
+  ▄▀▒   ░▓▓█  ░██░▒██    ▒██ ░██▄▄▄▄██ ▒██▀▀█▄  ░▓█▄   ▌░██░         ▒██▀▀█▄  ░██▄▄▄▄██ ░▓█ ░██ ▒██    ▒██ ░██▄▄▄▄██ ▓██▒  ▐▌██▒
+▒███████▒▒▒█████▓ ▒██▒   ░██▒ ▓█   ▓██▒░██▓ ▒██▒░▒████▓ ░██░         ░██▓ ▒██▒ ▓█   ▓██▒░▓█▒░██▓▒██▒   ░██▒ ▓█   ▓██▒▒██░   ▓██░
+░▒▒ ▓░▒░▒░▒▓▒ ▒ ▒ ░ ▒░   ░  ░ ▒▒   ▓▒█░░ ▒▓ ░▒▓░ ▒▒▓  ▒ ░▓           ░ ▒▓ ░▒▓░ ▒▒   ▓▒█░ ▒ ░░▒░▒░ ▒░   ░  ░ ▒▒   ▓▒█░░ ▒░   ▒ ▒ 
+░░▒ ▒ ░ ▒░░▒░ ░ ░ ░  ░      ░  ▒   ▒▒ ░  ░▒ ░ ▒░ ░ ▒  ▒  ▒ ░           ░▒ ░ ▒░  ▒   ▒▒ ░ ▒ ░▒░ ░░  ░      ░  ▒   ▒▒ ░░ ░░   ░ ▒░
+░ ░ ░ ░ ░ ░░░ ░ ░ ░      ░     ░   ▒     ░░   ░  ░ ░  ░  ▒ ░           ░░   ░   ░   ▒    ░  ░░ ░░      ░     ░   ▒      ░   ░ ░ 
+  ░ ░       ░            ░         ░  ░   ░        ░     ░              ░           ░  ░ ░  ░  ░       ░         ░  ░         ░ 
+░                                                ░                                                                              
+
+<!-- ![I am Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQHCd_gi_PTD9w/profile-displaybackgroundimage-shrink_350_1400/0/1646478229127?e=1652313600&v=beta&t=QPxIvHuZUOhys1csEurRfex0XmXO9z56izs6XATQlUs) -->
 
 I'm Zumardi Rahman from Indonesia, and I do Web Development. I really enjoy learning languages and frameworks like Laravel, Codeigniter, React, Vue, Angular, Go, as well as work in Universitas Andalas.
 
