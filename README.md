@@ -2,14 +2,11 @@
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zumardirahman&label=Profile%20views&color=0e75b6&style=flat" alt="zumardirahman" /> </p>
-
- ______                              _ _  ______      _                           
-|___  /                             | (_) | ___ \    | |                          
-   / / _   _ _ __ ___   __ _ _ __ __| |_  | |_/ /__ _| |__  _ __ ___   __ _ _ __  
-  / / | | | | '_ ` _ \ / _` | '__/ _` | | |    // _` | '_ \| '_ ` _ \ / _` | '_ \ 
-./ /__| |_| | | | | | | (_| | | | (_| | | | |\ \ (_| | | | | | | | | | (_| | | | |
-\_____/\__,_|_| |_| |_|\__,_|_|  \__,_|_| \_| \_\__,_|_| |_|_| |_| |_|\__,_|_| |_|
-                                                                                  
+     
+ _____                     _ _    _____     _                 
+|__   |_ _ _____ ___ ___ _| |_|  | __  |___| |_ _____ ___ ___ 
+|   __| | |     | .'|  _| . | |  |    -| .'|   |     | .'|   |
+|_____|___|_|_|_|__,|_| |___|_|  |__|__|__,|_|_|_|_|_|__,|_|_|    
                                                                                   
                                                                                   
 <!-- ![I am Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQHCd_gi_PTD9w/profile-displaybackgroundimage-shrink_350_1400/0/1646478229127?e=1652313600&v=beta&t=QPxIvHuZUOhys1csEurRfex0XmXO9z56izs6XATQlUs) -->
