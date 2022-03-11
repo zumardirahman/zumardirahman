@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zumardi Rahman</h1>
-<h3 align="center">A passionate fullstack developer from Indoensia</h3>
+<h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zumardirahman&label=Profile%20views&color=0e75b6&style=flat" alt="zumardirahman" /> </p>
 
