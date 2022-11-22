@@ -14,22 +14,6 @@
 
 I'm Zumardi Rahman from Indonesia, and I do Web Development. I really enjoy learning languages and frameworks like Laravel, Codeigniter, React, Vue, Angular, Go.
 
-- 🔭 I’m currently working on [reactjs](https://react-toko-zum.herokuapp.com/)
-
-- 🌱 I’m currently learning **Codeigniter, Laravel, Vue, React, Angular, Golang**
-
-- 👯 I’m looking to collaborate on [angularjs](https://github.com/zumardirahman/angular.js-apps)
-
-- 🤝 I’m looking for help with [golang](https://github.com/zumardirahman/golang-rest-api-crud)
-
-- 👨‍💻 All of my projects are available at [https://www.ciphersinformatika.com/](https://www.ciphersinformatika.com/)
-
-- 📝 I regularly write articles on [https://zum.my.id](https://zum.my.id)
-
-- 💬 Ask me about **Codeigniter, Laravel**
-
-- 📫 How to reach me **zumardi2014@gmail.com**
-
 - 📄 Know about my experiences [https://zumardirahman.github.io/resume/](https://zumardirahman.github.io/resume/)
 
 
